@@ -1,0 +1,11 @@
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/bin/Debug/netcoreapp2.1/Actividad2.deps.json
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/bin/Debug/netcoreapp2.1/Actividad2.runtimeconfig.json
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/bin/Debug/netcoreapp2.1/Actividad2.runtimeconfig.dev.json
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/bin/Debug/netcoreapp2.1/Actividad2.dll
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/bin/Debug/netcoreapp2.1/Actividad2.pdb
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/Debug/netcoreapp2.1/Actividad2.csprojAssemblyReference.cache
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/Debug/netcoreapp2.1/Actividad2.csproj.CoreCompileInputs.cache
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/Debug/netcoreapp2.1/Actividad2.AssemblyInfoInputs.cache
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/Debug/netcoreapp2.1/Actividad2.AssemblyInfo.cs
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/Debug/netcoreapp2.1/Actividad2.dll
+/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/Debug/netcoreapp2.1/Actividad2.pdb

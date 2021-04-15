@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/Actividad2.csproj": {}
+  },
+  "projects": {
+    "/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/Actividad2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/Actividad2.csproj",
+        "projectName": "Actividad2",
+        "projectPath": "/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/Actividad2.csproj",
+        "packagesPath": "/Users/agustinabustelo/.nuget/packages/",
+        "outputPath": "/Users/agustinabustelo/Documents/CAI/cosas mias/practica/Actividad2/Actividad2/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/agustinabustelo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
